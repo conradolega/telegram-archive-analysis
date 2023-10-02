@@ -1,0 +1,193 @@
+{
+ "name": "Test",
+ "type": "private_group",
+ "id": 12345,
+ "messages": [
+  {
+   "id": 14742,
+   "type": "service",
+   "date": "2023-10-01T20:04:28",
+   "date_unixtime": "1696161868",
+   "actor": "Conrad",
+   "actor_id": "user12345",
+   "action": "create_group",
+   "title": "Test",
+   "members": [
+    "Conrad"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 14743,
+   "type": "message",
+   "date": "2023-10-01T20:04:34",
+   "date_unixtime": "1696161874",
+   "from": "Conrad",
+   "from_id": "user12345",
+   "text": "testing",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "testing"
+    }
+   ]
+  },
+  {
+   "id": 14744,
+   "type": "message",
+   "date": "2023-10-01T20:04:45",
+   "date_unixtime": "1696161885",
+   "from": "Conrad",
+   "from_id": "user12345",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👋",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 14745,
+   "type": "message",
+   "date": "2023-10-01T20:05:24",
+   "date_unixtime": "1696161924",
+   "from": "Conrad",
+   "from_id": "user12345",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 14746,
+   "type": "message",
+   "date": "2023-10-01T20:05:34",
+   "date_unixtime": "1696161934",
+   "from": "Conrad",
+   "from_id": "user12345",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.google.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.google.com/"
+    }
+   ]
+  },
+  {
+   "id": 14747,
+   "type": "message",
+   "date": "2023-10-01T20:26:18",
+   "date_unixtime": "1696163178",
+   "from": "Conrad",
+   "from_id": "user12345",
+   "text": "test",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "test"
+    }
+   ]
+  },
+  {
+   "id": 14748,
+   "type": "message",
+   "date": "2023-10-01T20:26:19",
+   "date_unixtime": "1696163179",
+   "from": "Joe",
+   "from_id": "user12345",
+   "text": "test1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "test1"
+    }
+   ]
+  },
+  {
+   "id": 14749,
+   "type": "message",
+   "date": "2023-10-02T20:26:20",
+   "date_unixtime": "1696249580",
+   "from": "Joe",
+   "from_id": "user56789",
+   "text": "test2",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "test2"
+    }
+   ]
+  },
+  {
+   "id": 14750,
+   "type": "message",
+   "date": "2023-10-02T20:26:21",
+   "date_unixtime": "1696249581",
+   "from": "Joe",
+   "from_id": "user56789",
+   "text": "test3",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "test3"
+    }
+   ]
+  },
+  {
+   "id": 14751,
+   "type": "message",
+   "date": "2023-10-02T20:26:22",
+   "date_unixtime": "1696249582",
+   "from": "Joe",
+   "from_id": "user56789",
+   "text": "test4",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "test4"
+    }
+   ]
+  },
+  {
+   "id": 14752,
+   "type": "message",
+   "date": "2023-10-02T20:26:31",
+   "date_unixtime": "1696249591",
+   "from": "Joe",
+   "from_id": "user56789",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 1,
+   "width": 320,
+   "height": 182,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 14753,
+   "type": "message",
+   "date": "2023-10-02T20:26:35",
+   "date_unixtime": "1696249595",
+   "from": "Joe",
+   "from_id": "user56789",
+   "text": "💯",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💯"
+    }
+   ]
+  }
+ ]
+}
